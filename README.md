@@ -157,5 +157,3 @@ ai-support-system/
 ---
 
 
-Developed by **[Your Name]**  
-If you like this project, ⭐️ the repo and contribute!
